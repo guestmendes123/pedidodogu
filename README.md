@@ -9,7 +9,7 @@ O arquivo `index.html` contém o código do site.
 
 ## Autor
 
-Seu nome
+Gustavo
 
 ## Licença
 
